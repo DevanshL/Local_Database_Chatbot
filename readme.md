@@ -4,7 +4,7 @@
 
 This is an AI-powered SQL query bot that generates SQL queries from natural language questions. The bot leverages Google's Gemini AI to translate user questions about a database into SQL queries and returns the corresponding data. It's built using Python, Streamlit for the frontend, and Google Generative AI for the query generation.
 
-![Chat Interface](/home/devansh/Pictures/img1_sql.png) 
+![Chat Interface](/IMAGES/img1_sql.png) 
 
 ## Features
 
@@ -22,7 +22,7 @@ This is an AI-powered SQL query bot that generates SQL queries from natural lang
   
 Application chat       |  Database check
 :-------------------------:|:-------------------------:
-![App output](/home/devansh/Pictures/img2_sql.png)  |  ![Database output](/home/devansh/Pictures/output.png)
+![App output](/IMAGES/img2_sql.png)  |  ![Database output](/IMAGES/output.png)
 
 
 ## Setup Instructions
